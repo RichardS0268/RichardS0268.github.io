@@ -1,1 +1,2 @@
-# richards0268.github.io
+# Files Base for Personal Blog
+
