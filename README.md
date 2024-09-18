@@ -1,2 +1,1 @@
-# Files Base for Personal Blog
-
+# Files Base for [Personal Blog](https://www.richardsong.live/)
